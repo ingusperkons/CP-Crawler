@@ -1,4 +1,4 @@
-# Pattern-ronconstruction-of-chlorinated-paraffins-ESI-MS
+# Pattern reconstruction of chlorinated paraffins
 Chlorinated paraffin pattern reconstruction code (in R)
 
 This repository contains the necessary information regarding pattern reconstruction procedure of chlorinated paraffins (SCCPs, MCCPs, and LCCPs). 
